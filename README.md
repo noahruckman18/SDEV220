@@ -2,7 +2,5 @@
 
 ## Subheader
 
-This is where I will add all my assignmnets (Minus the first Assignmnet)
-I will create branches for every Module
-
-Test
+Assignments this branch contains: 
+1. M01 Programming Assignment
